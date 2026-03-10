@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "21g",
+  "base_artist": "LanPage",
+  "createdAt": "2026-03-10T03:35:58.133478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "21g",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/01_21g_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "21g",
+      "artist": "Ektor",
+      "has_synced": true,
+      "path": "select/02_21g_Ektor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "21g (feat. Strapo)",
+      "artist": "Ektor",
+      "has_synced": true,
+      "path": "select/03_21g_(feat._Strapo)_Ektor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "21G",
+      "artist": "Louis Villain",
+      "has_synced": false,
+      "path": "select/04_21G_Louis_Villain.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "21g",
+      "artist": "LanPage",
+      "has_synced": true,
+      "path": "select/05_21g_LanPage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "21g",
+      "artist": "LanPage",
+      "has_synced": false,
+      "path": "select/pl_01_21g_LanPage.txt"
+    }
+  ]
+}
